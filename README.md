@@ -1,5 +1,5 @@
 # gitworkshop
 It's my Soap 2018 repository
 
-- [soap](Soap.md)
+- [soap](soap.md)
 - [bubble](bubble.md)
